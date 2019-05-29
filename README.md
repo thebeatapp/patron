@@ -1,5 +1,7 @@
 # patron [![CircleCI](https://circleci.com/gh/beatlabs/patron.svg?style=svg)](https://circleci.com/gh/beatlabs/patron) [![codecov](https://codecov.io/gh/beatlabs/patron/branch/master/graph/badge.svg)](https://codecov.io/gh/beatlabs/patron) [![Go Report Card](https://goreportcard.com/badge/github.com/beatlabs/patron)](https://goreportcard.com/report/github.com/beatlabs/patron) [![GoDoc](https://godoc.org/github.com/beatlabs/patron?status.svg)](https://godoc.org/github.com/beatlabs/patron) ![GitHub release](https://img.shields.io/github/release/beatlabs/patron.svg)
 
+THIS REPOSITORY HAS MOVED TO https://github.com/beatlabs/patron!
+
 Patron is a framework for creating microservices, originally created by Sotiris Mantzaris (https://github.com/mantzas). This fork is maintained by Beat Engineering (https://thebeat.co)
 
 `Patron` is french for `template` or `pattern`, but it means also `boss` which we found out later (no pun intended).
